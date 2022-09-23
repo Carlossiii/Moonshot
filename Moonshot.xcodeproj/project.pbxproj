@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		675289F228DDF17500213BAC /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675289F128DDF17500213BAC /* MissionView.swift */; };
+		675289F428DE01E000213BAC /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675289F328DE01E000213BAC /* AstronautView.swift */; };
 		675478AF28DC94DF001809AA /* astronauts.json in Resources */ = {isa = PBXBuildFile; fileRef = 675478AD28DC94DF001809AA /* astronauts.json */; };
 		675478B028DC94DF001809AA /* missions.json in Resources */ = {isa = PBXBuildFile; fileRef = 675478AE28DC94DF001809AA /* missions.json */; };
 		675478B228DC9573001809AA /* Astronaut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675478B128DC9573001809AA /* Astronaut.swift */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		675289F128DDF17500213BAC /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		675289F328DE01E000213BAC /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 		675478AD28DC94DF001809AA /* astronauts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = astronauts.json; sourceTree = "<group>"; };
 		675478AE28DC94DF001809AA /* missions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = missions.json; sourceTree = "<group>"; };
 		675478B128DC9573001809AA /* Astronaut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Astronaut.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				67F0DD0728DC00E00084B632 /* MoonshotApp.swift */,
 				67F0DD0928DC00E00084B632 /* ContentView.swift */,
 				675289F128DDF17500213BAC /* MissionView.swift */,
+				675289F328DE01E000213BAC /* AstronautView.swift */,
 				675478B728DCC53D001809AA /* Color-theme.swift */,
 				675478B128DC9573001809AA /* Astronaut.swift */,
 				675478B528DC9B17001809AA /* Mission.swift */,
@@ -162,6 +165,7 @@
 			files = (
 				675289F228DDF17500213BAC /* MissionView.swift in Sources */,
 				675478B228DC9573001809AA /* Astronaut.swift in Sources */,
+				675289F428DE01E000213BAC /* AstronautView.swift in Sources */,
 				675478B828DCC53D001809AA /* Color-theme.swift in Sources */,
 				67F0DD0A28DC00E00084B632 /* ContentView.swift in Sources */,
 				67F0DD0828DC00E00084B632 /* MoonshotApp.swift in Sources */,
